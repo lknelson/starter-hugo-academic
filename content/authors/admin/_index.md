@@ -1,6 +1,7 @@
 ---
 title: Laura K. Nelson
 role: Professor of Sociology
+avatar_filename: img_4327.jpeg
 bio: I use computational methods to study social movements, culture, gender,
   institutions, and the history of feminism. I'm particularly interested in
   developing transparent and reproducible text analysis methods for sociology
