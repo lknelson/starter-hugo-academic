@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: yellowstone_banner_narrow.png
+    image: ""
     image_darken: 0.5
 ---
