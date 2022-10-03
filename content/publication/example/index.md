@@ -22,7 +22,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: In Sociological Methods & Resarch
+publication: In *Sociological Methods & Research*
 summary: This article proposes a three-step methodological framework called
   computational grounded theory, which combines expert human knowledge and
   hermeneutic skills with the processing power and pattern recognition of
@@ -30,7 +30,7 @@ summary: This article proposes a three-step methodological framework called
   approach to content analysis.
 url_dataset: ""
 url_project: ""
-publication_short: In *SMR*
+publication_short: In *Sociological Methods & Research*
 url_source: ""
 url_video: ""
 title: "Computational Grounded Theory: A Methodological Framework"
