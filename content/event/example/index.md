@@ -36,7 +36,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
@@ -44,15 +44,7 @@ image:
   focal_point: Right
 url_code: ""
 ---
-{{% callout note %}}
-
-
-```
 {{< video src="https://purl.dlib.indiana.edu/iudl/media/376316ws0n" controls="yes" >}}
-```
-
-
-{{% /callout %}}
 
 Slides can be added in a few ways:
 
