@@ -33,8 +33,8 @@ url_project: ""
 publication_short: In *SMR*
 url_source: ""
 url_video: ""
-title: Computational Grounded Theory
-subtitle: A Methodological Framework
+title: "Computational Grounded Theory: A Methodological Framework"
+subtitle: ""
 doi: https://doi.org/10.1177/00491241177297
 featured: true
 tags: []
