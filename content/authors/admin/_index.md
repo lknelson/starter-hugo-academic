@@ -48,4 +48,6 @@ I'm currently an assistant professor of sociology the [University of British Co
 
 Previously, I was an assistant professor [at Northeastern University](https://www.northeastern.edu/cssh/), where I was core faculty at the [NULab for Text, Maps, and Networks](https://web.northeastern.edu/nulab/), a faculty affiliate at the [Network Science Institute](https://www.networkscienceinstitute.org/), and was on the executive committee of the [Women's, Gender, and Sexuality Studies Program](https://cssh.northeastern.edu/wgss/).
 
+I use computational methods to study social movements, culture, gender, institutions, and the history of feminism. I'm particularly interested in developing transparent and reproducible text analysis methods for sociology using open-source tools.
+
 I'm currently on the editorial board of [Sociological Methodology](http://www.asanet.org/research-and-publications/journals/sociological-methodology) and an associate editor at [EPJ Data Science](https://epjdatascience.springeropen.com/).
