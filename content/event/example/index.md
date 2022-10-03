@@ -47,6 +47,8 @@ url_code: ""
 ---
 {{<iframe title="Cycles of Conflict, a Century of Continuity: Computational Methods and the Longue Durée" src="https://purl.dlib.indiana.edu/iudl/media/811k52201v?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen}}
 
+Test
+
 Slides can be added in a few ways:
 
 * **Create** slides using Wowchemy's *[Slides](https://wowchemy.com/docs/managing-content/#create-slides)* feature and link using `slides` parameter in the front matter of the talk file
