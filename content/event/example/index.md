@@ -42,6 +42,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
+  filename: featured.png
 url_code: ""
 ---
 {{< video src="https://purl.dlib.indiana.edu/iudl/media/376316ws0n" controls="yes" >}}
