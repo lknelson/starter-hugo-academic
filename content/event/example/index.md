@@ -20,7 +20,7 @@ date: 2022-09-09T21:00:00.000Z
 date_end: 2022-09-09T22:30:00.000Z
 all_day: false
 event: IU Workshop in Methods
-event_url: https://purl.dlib.indiana.edu/iudl/media/376316ws0n
+event_url: https://scholarworks.iu.edu/dspace/handle/2022/28154
 featured: false
 authors: []
 url_video: ""
