@@ -45,7 +45,7 @@ image:
   filename: featured.png
 url_code: ""
 ---
-{{< video src="https://purl.dlib.indiana.edu/iudl/media/376316ws0n" controls="yes" >}}
+{{< video src="https://purl.dlib.indiana.edu/iudl/media/376316ws0n" controls="no" >}}
 
 Slides can be added in a few ways:
 
