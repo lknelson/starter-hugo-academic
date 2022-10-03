@@ -43,10 +43,10 @@ image:
   caption: ""
   focal_point: SMART
   preview_only: false
-  filename: images_large_10.1177_0049124117729703-fig2.jpeg
-date: 2013-07-01T00:00:00Z
+  filename: featured.jpg
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
