@@ -29,7 +29,7 @@ experience:
     location: Vancouver, BC
     date_start: '2021'
     date_end: ''
-    description: 
+    description: |-2
       * Director, Centre for Computational Social Science
 
   - title: Assistant Professor of Sociology
@@ -39,7 +39,7 @@ experience:
     location: Massachusetts
     date_start: '2016'
     date_end: '2021'
-    description: 
+    description: |2-
       * Core Faculty, NULab for Texts, Maps, and Networks
       * Executive Committee, Women's, Gender and Sexuality Studies Program
       * Affiliated Faculty, Network Science Institute
@@ -51,7 +51,7 @@ experience:
     location: California
     date_start: '2016'
     date_end: '2017'
-    description: 
+    description: |2-
       * Research Fellow, Berkeley Institute for Data Science
       * Research and Teaching Fellow, Digital Humanities @ Berkeley
 
