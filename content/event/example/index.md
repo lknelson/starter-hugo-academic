@@ -45,7 +45,7 @@ image:
   filename: featured.png
 url_code: ""
 ---
-{{<iframe title="Cycles of Conflict, a Century of Continuity: Computational Methods and the Longue Durée" src="https://purl.dlib.indiana.edu/iudl/media/811k52201v?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen>}}
+<iframe title="Cycles of Conflict, a Century of Continuity: Computational Methods and the Longue Durée" src="https://purl.dlib.indiana.edu/iudl/media/811k52201v?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen>
 
 Test
 
