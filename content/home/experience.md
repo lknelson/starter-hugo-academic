@@ -29,19 +29,31 @@ experience:
     location: Vancouver, BC
     date_start: '2021'
     date_end: ''
-    description: Computational Sociologist
+    description: 
+      * Director, Centre for Computational Social Science
 
   - title: Assistant Professor of Sociology
     company: Northeastern University
-    company_url: ''
+    company_url: 'https://www.northeastern.edu/'
     company_logo: org-NEU
     location: Massachusetts
     date_start: '2016'
     date_end: '2021'
     description: 
-      * Core Faculty - NULab for Texts, Maps, and Networks
-      * Executive Committee - Women's, Gender and Sexuality Studies Program
-      * Affiliated Faculty - Network Science Institute
+      * Core Faculty, NULab for Texts, Maps, and Networks
+      * Executive Committee, Women's, Gender and Sexuality Studies Program
+      * Affiliated Faculty, Network Science Institute
+
+  - title: Postdoctoral Fellow
+    company: University of California, Berkeley
+    company_url: 'https://www.berkeley.edu/'
+    company_logo: org-UC
+    location: California
+    date_start: '2016'
+    date_end: '2017'
+    description: 
+      * Research Fellow, Berkeley Institute for Data Science
+      * Research and Teaching Fellow, Digital Humanities @ Berkeley
 
 design:
   columns: '2'
