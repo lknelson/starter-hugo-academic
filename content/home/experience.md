@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Professional Appointments
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Assistant Professor of Sociology
+    company: University of British Columbia
+    company_url: 'https://www.ubc.ca/'
+    company_logo: org-UBC
+    location: Vancouver, BC
+    date_start: '2021'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Computational Sociologist
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Assistant Professor of Sociology
+    company: Northeastern University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-NEU
+    location: Massachusetts
+    date_start: '2016'
+    date_end: '2021'
+    description: 
+      * Core Faculty - NULab for Texts, Maps, and Networks
+      * Executive Committee - Women's, Gender and Sexuality Studies Program
+      * Affiliated Faculty - Network Science Institute
 
 design:
   columns: '2'
