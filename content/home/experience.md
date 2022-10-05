@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
-      * Director, Centre for Computational Social Science
+      * Director - Centre for Computational Social Science
 
   - title: Assistant Professor of Sociology
     company: Northeastern University
@@ -40,9 +40,9 @@ experience:
     date_start: '2016-08-15'
     date_end: '2021-06-30'
     description: |2-
-      * Core Faculty, NULab for Texts, Maps, and Networks
-      * Executive Committee, Women's, Gender and Sexuality Studies Program
-      * Affiliated Faculty, Network Science Institute
+      * Core Faculty - NULab for Texts, Maps, and Networks
+      * Executive Committee - Women's, Gender and Sexuality Studies Program
+      * Affiliated Faculty - Network Science Institute
 
   - title: Postdoctoral Fellow
     company: University of California, Berkeley
@@ -52,8 +52,8 @@ experience:
     date_start: '2016-08-15'
     date_end: '2017-08-14'
     description: |2-
-      * Research Fellow, Berkeley Institute for Data Science
-      * Research and Teaching Fellow, Digital Humanities @ Berkeley
+      * Research Fellow - Berkeley Institute for Data Science
+      * Research and Teaching Fellow - Digital Humanities @ Berkeley
 
 design:
   columns: '2'
