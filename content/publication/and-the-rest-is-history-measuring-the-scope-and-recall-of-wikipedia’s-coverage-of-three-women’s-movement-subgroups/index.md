@@ -18,7 +18,7 @@ abstract: "Narrating history is perpetually contested, shaping and reshaping how
   can be used to both evaluate the recall of a body of history and to actively
   intervene in enlarging the scope of our histories and historical knowledge."
 slides: ""
-url_pdf: ""
+url_pdf: "https://github.com/lknelson/starter-hugo-academic/blob/main/content/publication/and-the-rest-is-history-measuring-the-scope-and-recall-of-wikipedia%E2%80%99s-coverage-of-three-women%E2%80%99s-movement-subgroups/example.pdf"
 publication_types:
   - "2"
 authors:
