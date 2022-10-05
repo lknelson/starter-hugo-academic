@@ -47,8 +47,9 @@ projects: []
 image:
   caption: ""
   focal_point: SMART
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
+  
 date: 2021-12-30T23:08:07.824Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
