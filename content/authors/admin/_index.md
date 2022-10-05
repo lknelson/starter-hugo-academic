@@ -39,7 +39,7 @@ education:
       year: ""
     - course: BA in Sociology, Concentration in Analysis and Research
       institution: University of Wisconsin, Madison
-      year: -2
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
