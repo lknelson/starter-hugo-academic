@@ -16,7 +16,7 @@ abstract: This article proposes a three-step methodological framework called
   interviews, open-ended survey data, or ethnographic field notes, and can
   address many potential research questions.
 slides: ""
-url_pdf: "https://github.com/lknelson/starter-hugo-academic/blob/main/content/publication/example/example.pdf"
+url_pdf: "https://github.com/lknelson/starter-hugo-academic/blob/main/content/publication/computational-grounded-theory/example.pdf"
 publication_types:
   - "2"
 authors:
