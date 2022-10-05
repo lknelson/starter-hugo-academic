@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 title: "Computational Grounded Theory: A Methodological Framework"
 subtitle: ""
-doi: 10.1177/00491241177297
+doi: 10.1177/0049124117729703
 featured: true
 tags: []
 projects: []
