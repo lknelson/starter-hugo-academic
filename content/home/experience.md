@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.ubc.ca/'
     company_logo: org-ubc
     location: Vancouver, BC
-    date_start: '2021'
+    date_start: 'Aug 2021'
     date_end: ''
     description: |2-
       * Director, Centre for Computational Social Science
@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.northeastern.edu/'
     company_logo: org-NEU
     location: Massachusetts
-    date_start: '2016'
-    date_end: '2021'
+    date_start: 'Aug 2016'
+    date_end: 'Jun 2021'
     description: |2-
       * Core Faculty, NULab for Texts, Maps, and Networks
       * Executive Committee, Women's, Gender and Sexuality Studies Program
@@ -49,8 +49,8 @@ experience:
     company_url: 'https://www.berkeley.edu/'
     company_logo: org-ucb
     location: California
-    date_start: '2016'
-    date_end: '2017'
+    date_start: 'Aug 2016'
+    date_end: 'Aug 2017'
     description: |2-
       * Research Fellow, Berkeley Institute for Data Science
       * Research and Teaching Fellow, Digital Humanities @ Berkeley
