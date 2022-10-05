@@ -29,7 +29,7 @@ experience:
     location: Vancouver, BC
     date_start: '2021'
     date_end: ''
-    description: |-2
+    description: |2-
       * Director, Centre for Computational Social Science
 
   - title: Assistant Professor of Sociology
