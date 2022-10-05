@@ -47,7 +47,7 @@ projects: []
 image:
   caption: ""
   focal_point: SMART
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
   
 date: 2021-12-30T23:08:07.824Z
