@@ -55,6 +55,17 @@ experience:
       * Research Fellow - Berkeley Institute for Data Science
       * Research and Teaching Fellow - Digital Humanities @ Berkeley
 
+  - title: Postdoctoral Research Fellow
+    company: Northwestern University
+    company_url: 'https://www.northwestern.edu/'
+    company_logo: 
+    location: California
+    date_start: '2014-08-15'
+    date_end: '2016-08-14'
+    description: |2-
+      * Research Fellow - Kellogg School of Management
+      * Research Affiliate - Northwestern Institute on Complex Systems
+
 design:
   columns: '2'
 ---
