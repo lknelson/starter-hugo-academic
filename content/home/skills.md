@@ -19,15 +19,15 @@ feature:
   - description:
     icon: python
     icon_pack: fab
-    name: Python
+    name:
   - description:
     icon: r-project
     icon_pack: fab
-    name: R
+    name:
   - description:
     icon: linux
     icon_pack: fab
-    name: Linux
+    name:
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
