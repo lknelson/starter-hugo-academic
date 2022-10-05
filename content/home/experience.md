@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor of Sociology
     company: University of British Columbia
     company_url: 'https://www.ubc.ca/'
-    company_logo: org-UBC
+    company_logo: org-ubc
     location: Vancouver, BC
     date_start: '2021'
     date_end: ''
@@ -47,7 +47,7 @@ experience:
   - title: Postdoctoral Fellow
     company: University of California, Berkeley
     company_url: 'https://www.berkeley.edu/'
-    company_logo: org-UC
+    company_logo: org-ucb
     location: California
     date_start: '2016'
     date_end: '2017'
