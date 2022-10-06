@@ -50,4 +50,4 @@ Previously, I was an assistant professor [at Northeastern University](https://w
 
 I use computational methods to study social movements, culture, gender, institutions, and the history of feminism. I'm particularly interested in developing transparent and reproducible text analysis methods for sociology using open-source tools.
 
-I'm on the editorial board of [Sociological Methodology](http://www.asanet.org/research-and-publications/journals/sociological-methodology) and an consulting editor at the [American Journal of Sociology](https://www.journals.uchicago.edu/toc/ajs/current).
+I'm on the editorial board of [Sociological Methodology](http://www.asanet.org/research-and-publications/journals/sociological-methodology) and a consulting editor at the [American Journal of Sociology](https://www.journals.uchicago.edu/toc/ajs/current).
