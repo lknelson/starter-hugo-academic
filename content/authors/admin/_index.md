@@ -16,7 +16,7 @@ interests:
 social:
   - icon: cv
     icon_pack: ai
-    #link: files/CV_Haber.pdf
+    link: 2022_LNelsonCV.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LauraK_Nelson
