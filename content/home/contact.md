@@ -12,22 +12,11 @@ title: Contact
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
   # Contact details (edit or remove options as required)
   email: laura.k.nelson@ubc.ca
   address:
-    street: 450 Serra Mall
+    street: ANTSOC - 6303 NW Marine Dr
     city: Vancouver
     region: BC
     country: Canada
