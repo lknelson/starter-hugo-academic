@@ -14,9 +14,9 @@ interests:
   - computational sociology
   - text analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /laura.k.nelson@ubc.ca
+  - icon: cv
+    icon_pack: ai
+    #link: files/CV_Haber.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LauraK_Nelson
