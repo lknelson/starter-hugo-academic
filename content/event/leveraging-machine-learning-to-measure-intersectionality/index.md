@@ -41,7 +41,7 @@ projects: []
 image:
   caption: ""
   focal_point: Right
-  filename: screenshot-2022-10-12-at-15-07-50-laura-k.-nelson-leveraging-machine-learning-to-measure-intersectionality.png
+  filename: leveraging-machine-learning-to-measure-intersectionality.png
 url_code: ""
 all_day: false
 ---
