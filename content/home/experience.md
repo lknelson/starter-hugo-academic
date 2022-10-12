@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor of Sociology
     company: University of British Columbia
     company_url: 'https://www.ubc.ca/'
-    company_logo: org-ubc.svg
+    company_logo: org-ubc
     location: Vancouver, BC
     date_start: '2021-07-01'
     date_end: ''
