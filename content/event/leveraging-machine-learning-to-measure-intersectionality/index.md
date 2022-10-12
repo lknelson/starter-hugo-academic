@@ -13,7 +13,7 @@ abstract: >-
   I empirically demonstrate this alignment through a word embedding model of first-person narratives of the nineteenth-century U.S. South. Situating social categories in relation to social institutions via an inductive computational analysis, I find that the cultural and economic spheres discursively distinguished by race in these narratives, the domestic sphere distinguished by gender, and Black men were afforded more discursive authority compared to white women. Even in a corpus over-representing abolitionist sentiment, I find white identities were afforded a social status via culture not allowed Black identities. 
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: I empirically demonstrate the alignment between machine learning and inductive analysis through a word embedding model of first-person narratives of the nineteenth-century U.S. South. 
 date_end: 2021-03-08T21:15:00.000Z
 event_url: https://inequality.hks.harvard.edu/laura-k-nelson-leveraging-machine-learning-measure-intersectionality
 authors: []
