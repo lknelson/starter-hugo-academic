@@ -54,5 +54,5 @@ date: 2021-12-30T23:08:07.824Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/syedarehaq/wikipedia_gender_concepts_establishment"
 ---
