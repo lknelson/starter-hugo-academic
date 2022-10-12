@@ -1,7 +1,7 @@
 ---
 abstract: Machine learning is a rapidly growing research paradigm. Despite its foundationally inductive mathematical assumptions, machine learning is currently developing alongside traditionally deductive inferential statistics but largely orthogonally to inductive, qualitative, cultural, and intersectional research—to its detriment. I argue that we can better realize the full potential of machine learning by leveraging the epistemological alignment between machine learning and inductive research. I empirically demonstrate this alignment through a word embedding model of first-person narratives of the nineteenth-century U.S. South. Situating social categories in relation to social institutions via an inductive computational analysis, I find that the cultural and economic spheres discursively distinguished by race in these narratives, the domestic sphere distinguished by gender, and Black men were afforded more discursive authority compared to white women. Even in a corpus over-representing abolitionist sentiment, I find white identities were afforded a status via culture not allowed Black identities.
 slides: ""
-url_pdf: "Nelson_MeasuringIntersectionality_OnlineFirst_03.2021.pdf"
+url_pdf: "machine-learning-intersectionality.pdf"
 publication_types:
   - "2"
 authors:
