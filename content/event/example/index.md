@@ -12,7 +12,7 @@ abstract: The women’s liberation movement hotly debated both the cause of
   movements over long time frames.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Using computational methods to examine women's movements from the 1860s to the 1970s, I challenge long-standing theories of feminist waves and reflect on the potential for using computational methods, in particular when combined with qualitative methods and interpretation, to re-examine historical patterns in social movements over long time frames.
 date_end: 2022-09-09T22:30:00.000Z
 event_url: https://scholarworks.iu.edu/dspace/handle/2022/28154
 authors: []
