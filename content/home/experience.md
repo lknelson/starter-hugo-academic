@@ -35,7 +35,7 @@ experience:
   - title: Assistant Professor of Sociology
     company: Northeastern University
     company_url: 'https://www.northeastern.edu/'
-    company_logo: 
+    company_logo: org-nu
     location: Massachusetts
     date_start: '2016-08-15'
     date_end: '2021-06-30'
@@ -47,7 +47,7 @@ experience:
   - title: Postdoctoral Fellow
     company: University of California, Berkeley
     company_url: 'https://www.berkeley.edu/'
-    company_logo: 
+    company_logo: org-ucb
     location: California
     date_start: '2016-08-15'
     date_end: '2017-08-14'
@@ -58,7 +58,7 @@ experience:
   - title: Postdoctoral Research Fellow
     company: Northwestern University
     company_url: 'https://www.northwestern.edu/'
-    company_logo: 
+    company_logo: org-nwu
     location: California
     date_start: '2014-08-15'
     date_end: '2016-08-14'
