@@ -9,7 +9,7 @@ authors:
   - Brayden G King
 author_notes: []
 publication: "*Mobilization*"
-summary: Using the U.S. environmental movement as a case study, and employing a data-driven and inductive strategy that combines both computational and qualitative methods, we find that strategy emerges as organizations link their actions to their goal orientation: what level of society the organization views as the locus of change.
+summary:  Using the U.S. environmental movement as a case study, and employing a data-driven and inductive strategy that combines both computational and qualitative methods, we find that strategy emerges as organizations link their actions to their goal orientation: what level of society the organization views as the locus of change.
 url_dataset: ""
 url_project: ""
 publication_short: In *Mobilization*
