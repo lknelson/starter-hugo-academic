@@ -1,6 +1,6 @@
 ---
 title: Analyzing Complex Digitized Data
-summary: An example of using the in-built project page.
+summary: Introduction to Python for the social sciences and humanities
 tags:
   - Computational Methods
 date: '2016-04-27T00:00:00Z'
@@ -18,7 +18,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'AnalyzingComplexDigitzedData-Syllabus.pdf'
+url_pdf: example.pdf
 url_slides: ''
 url_video: ''
 
