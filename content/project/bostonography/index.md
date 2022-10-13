@@ -19,7 +19,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: bostonography-syllabus.pdf
+url_pdf: bostonography.pdf
 url_slides: ''
 url_video: ''
 

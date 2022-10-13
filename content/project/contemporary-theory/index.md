@@ -18,7 +18,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: contemporary-social-theory.pdf
+url_pdf: contemporary-theory.pdf
 url_slides: ''
 url_video: ''
 
