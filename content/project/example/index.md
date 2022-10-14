@@ -3,6 +3,7 @@ title: Analyzing Complex Digitized Data
 summary: Introduction to Python for the social sciences and humanities
 tags:
   - Methods
+  - Courses
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

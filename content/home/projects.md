@@ -27,6 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Courses
+      tag: Courses
     - name: Methods
       tag: Methods
     - name: Data and Society
