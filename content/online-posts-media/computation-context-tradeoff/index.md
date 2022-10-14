@@ -14,7 +14,7 @@ summary: "In this blog post I explore a fundamental question in computational so
 url_dataset: ""
 url_project: ""
 publication_short: In SAGE Ocean
-url_source: https://ocean.sagepub.com/blog/2018/11/9/the-computationcontext-trade-off
+url_source: ''
 url_video: ""
 title: "The Computation/Context Trade-Off?"
 subtitle: "[In SAGE Ocean](https://ocean.sagepub.com/blog/2018/11/9/the-computationcontext-trade-off)"
@@ -32,5 +32,11 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+
+links:
+  - icon_pack: fab
+    icon: link
+    name: Read the Full Essay
+    url: 'https://ocean.sagepub.com/blog/2018/11/9/the-computationcontext-trade-off'
 ---
 

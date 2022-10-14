@@ -14,11 +14,7 @@ summary: In the lead up to International Women’s Day on Friday March 8th, SAGE
 url_dataset: ""
 url_project: ""
 publication_short: In SAGE Ocean
-url_source: https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview
-url_custom:
-    icon: graduation-cap
-    icon_pack: fas
-    link:  https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview
+url_source: ''
 url_video: ""
 title: "How do we nurture an academic landscape that is more accessible to women? Let’s start by getting rid of the in-person interview"
 subtitle: "In [SAGE Ocean](https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview)"
@@ -39,8 +35,8 @@ url_code: ""
 
 links:
   - icon_pack: fab
-    icon: medium
-    name: Link to poast
+    icon: link
+    name: Read the Full Essay
     url: 'https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview'
 ---
 
