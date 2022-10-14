@@ -27,7 +27,7 @@ image:
   focal_point: SMART
   preview_only: false
   filename: featured.jpg
-date: 2020-02-02T01:00:00.000Z
+date: 2016-06-14T01:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
