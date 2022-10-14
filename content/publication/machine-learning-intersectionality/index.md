@@ -7,7 +7,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: "*Poetics*"
+publication: "*Poetics: Journal of Empirical Research on Culture*"
 summary: I empirically demonstrate the alignment between machine learning and inductive research through a word embedding model of first-person narratives of the nineteenth-century U.S. South.
 url_dataset: ""
 url_project: ""
@@ -15,7 +15,7 @@ publication_short: In *Poetics*
 url_source: ""
 url_video: ""
 title: "Leveraging the Alignment Between Machine Learning and Intersectionality: Using Word Embeddings to Measure Intersectional Experiences of the Nineteenth Century U.S. South"
-subtitle: ""
+subtitle: "In *Poetics: Journal of Empirical Research on Culture*"
 doi: 10.1016/j.poetic.2021.101539
 featured: true
 tags:

@@ -16,7 +16,7 @@ publication_short: In *American Journal of Sociology*
 url_source: ""
 url_video: ""
 title: "Cycles of Conflict, a Century of Continuity: The Impact of Persistent Place-Based Political Logics on Social Movement Strategy"
-subtitle: ""
+subtitle: In *American Journal of Sociology*
 doi: 10.1086/714915
 featured: true
 tags:

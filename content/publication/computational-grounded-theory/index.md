@@ -35,7 +35,7 @@ publication_short: In *Sociological Methods & Research*
 url_source: ""
 url_video: ""
 title: "Computational Grounded Theory: A Methodological Framework"
-subtitle: ""
+subtitle: In *Sociological Methods & Research*
 doi: 10.1177/0049124117729703
 featured: true
 tags:

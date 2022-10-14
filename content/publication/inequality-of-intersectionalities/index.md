@@ -7,7 +7,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-publication: "*Signs*"
+publication: "*Signs: Journal of Women in Culture and Society*"
 summary: This article uses network and text analyses methods to reexamine the intersections of race, class, gender, and ethnicity in first-wave feminist organizations in Chicago during the Progressive Era, from 1860 to 1920.
 url_dataset: ""
 url_project: ""
@@ -15,7 +15,7 @@ publication_short: In *Signs*
 url_source: ""
 url_video: ""
 title: "The Inequality of Intersectionalities in Chicago’s First-Wave Women’s Movement"
-subtitle: ""
+subtitle: "In *Signs: Journal of Women in Culture and Society*"
 doi: 10.1086/718866
 featured: false
 tags:

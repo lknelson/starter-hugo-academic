@@ -16,7 +16,7 @@ publication_short: In *Gender & Society*
 url_source: ""
 url_video: ""
 title: "From Theory to Practice and Back: How the Concept of Implicit Bias was Implemented in Academe, and What this Means for Gender Theories of Organizational Change"
-subtitle: ""
+subtitle: In *Gender & Society*
 doi: 10.1177/08912432211000335
 featured: true
 tags:

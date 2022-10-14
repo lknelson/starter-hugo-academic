@@ -19,7 +19,7 @@ publication_short: In *Sociological Methods & Research*
 url_source: ""
 url_video: ""
 title: "The Future of Coding: A Comparison of Hand-Coding and Three Types of Computer-Assisted Text Analysis Methods"
-subtitle: ""
+subtitle: In *Sociological Methods & Research
 doi: 10.1177/0049124118769114
 featured: true
 tags:

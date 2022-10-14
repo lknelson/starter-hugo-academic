@@ -9,7 +9,7 @@ authors:
   - admin
   - Brayden G King
 author_notes: []
-publication: "*Mobilization*"
+publication: "*Mobilization: An International Quarterly*"
 summary: "Using the U.S. environmental movement as a case study, and employing a data-driven and inductive strategy that combines both computational and qualitative methods, we find that strategy emerges as organizations link their actions to their goal orientation: what level of society the organization views as the locus of change."
 url_dataset: ""
 url_project: ""
@@ -17,7 +17,7 @@ publication_short: In *Mobilization*
 url_source: ""
 url_video: ""
 title: "The Meaning of Action: Linking Goal Orientations, Tactics, and Strategies in the Environmental Movement"
-subtitle: ""
+subtitle: "In *Mobilization: An International Quarterly*"
 doi: 10.17813/1086-671X-25-3-315
 featured: true
 tags:

@@ -40,7 +40,7 @@ url_source: ""
 url_video: ""
 title: "And the Rest is History: Measuring the Scope and Recall of Wikipedia’s
   Coverage of Three Women’s Movement Subgroups"
-subtitle: ""
+subtitle: In *Sociological Methods & Research*
 doi: 10.1177/00491241211067514
 featured: false
 tags:
