@@ -1,4 +1,7 @@
 ---
+tags:
+  - Gender
+
 abstract: Implicit bias is one of the most successful cases in recent memory of an academic concept being translated into practice. Its use in the National Science Foundation ADVANCE program—which seeks to promote gender equality in STEM (science, technology, engineering, mathematics) careers through institutional transformation—has raised fundamental questions about organizational change. How do advocates translate theories into practice? What makes some concepts more tractable than others? What happens to theories through this translation process? We explore these questions using the ADVANCE program as a case study. Using an inductive, theory-building approach and combination of computational and qualitative methods, we investigate how the concept of implicit bias was translated into practice through the ADVANCE program and identify five key features that made implicit bias useful as a change framework in the academic STEM setting. We find that the concept of implicit bias works programmatically because it is (1) demonstrable, (2) relatable, (3) versatile, (4) actionable, and (5) impartial. While enabling the concept’s diffusion, these characteristics also limit its scope. We reflect on implications for gender theories of organizational change and for practitioners.
 slides: ""
 url_pdf: "from-theory-to-practice.pdf"

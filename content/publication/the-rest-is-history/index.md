@@ -1,4 +1,10 @@
 ---
+
+tags:
+  - Methods
+  - Intersectionality
+
+
 abstract: "Narrating history is perpetually contested, shaping and reshaping how
   nations and people understand both their pasts and the current moment.
   Measuring and evaluating the scope of histories is methodologically

@@ -1,4 +1,8 @@
 ---
+
+tags:
+  - Social Movements
+
 abstract: The women’s liberation movement hotly debated both the cause of women’s oppression and the best approach to changing it. When treated as a moment within 1960s political polarization, these debates can seem esoteric and arbitrary. When examined across the longue durée, the debates prove to reflect complex and stable differences in interpretation that were tied to place more than to the political moment. Using a combination of network analysis, computational text analysis, and qualitative interpretation, the author examines women’s movement discourses across the first and second waves of activism and between two sites, New York City and Chicago. Place, she finds, serves to capture differences in political logics that generate durable differences within movement discourse.
 slides: ""
 url_pdf: "cycles-of-conflict.pdf"
