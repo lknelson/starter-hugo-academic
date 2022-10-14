@@ -34,8 +34,8 @@ url_poster: ""
 url_code: ""
 
 links:
-  - icon_pack: fab
-    icon: link
+  - icon_pack: ''
+    icon: ''
     name: Read the Full Essay
     url: 'https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview'
 ---

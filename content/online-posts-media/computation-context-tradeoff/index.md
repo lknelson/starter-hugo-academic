@@ -34,8 +34,8 @@ url_poster: ""
 url_code: ""
 
 links:
-  - icon_pack: fab
-    icon: link
+  - icon_pack: ''
+    icon: ''
     name: Read the Full Essay
     url: 'https://ocean.sagepub.com/blog/2018/11/9/the-computationcontext-trade-off'
 ---
