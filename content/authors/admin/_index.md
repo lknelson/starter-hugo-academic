@@ -9,10 +9,10 @@ bio: I use computational methods to study social movements, culture, gender,
 interests:
   - social movements
   - gender
-  - culture
-  - institutions
   - computational sociology
   - text analysis
+  - culture
+  - institutions
 social:
   - icon: cv
     icon_pack: ai
