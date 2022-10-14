@@ -1,8 +1,6 @@
 ---
 
-abstract: "In this blog post I explore a fundamental question in computational social science: does “big computation” necessarily comes at the expense of narrative richness, contextual detail, and theory? Or, conversely, narrative richness can only happen without computation? I call this the (assumed) computation/context trade-off, and it has been repeated so often that it has almost become a truism.
-
-I claim, however, that there is no computation/context trade-off. Computational methods, including machine learning, can be used to find universal or near-universal patterns like those listed above (if that’s what you’re into), but they can also be used to enhance qualitative, interpretive, and context-specific research. 
+abstract: "In this blog post I explore a fundamental question in computational social science: does “big computation” necessarily comes at the expense of narrative richness, contextual detail, and theory? Or, conversely, narrative richness can only happen without computation? I call this the (assumed) computation/context trade-off, and it has been repeated so often that it has almost become a truism. I claim, however, that there is no computation/context trade-off. Computational methods, including machine learning, can be used to find universal or near-universal patterns like those listed above (if that’s what you’re into), but they can also be used to enhance qualitative, interpretive, and context-specific research. 
 
 slides: ""
 url_pdf: ""
