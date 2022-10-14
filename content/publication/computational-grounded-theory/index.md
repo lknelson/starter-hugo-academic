@@ -1,8 +1,5 @@
 ---
 
-tags:
-  - Methods
-
 abstract: This article proposes a three-step methodological framework called
   computational grounded theory, which combines expert human knowledge and
   hermeneutic skills with the processing power and pattern recognition of
@@ -41,7 +38,8 @@ title: "Computational Grounded Theory: A Methodological Framework"
 subtitle: ""
 doi: 10.1177/0049124117729703
 featured: true
-tags: []
+tags:
+  - Methods
 projects: []
 image:
   caption: ""

@@ -1,10 +1,5 @@
 ---
 
-tags:
-  - Methods
-  - Intersectionality
-
-
 abstract: "Narrating history is perpetually contested, shaping and reshaping how
   nations and people understand both their pasts and the current moment.
   Measuring and evaluating the scope of histories is methodologically
@@ -48,7 +43,10 @@ title: "And the Rest is History: Measuring the Scope and Recall of Wikipedia’s
 subtitle: ""
 doi: 10.1177/00491241211067514
 featured: false
-tags: []
+tags:
+  - Methods
+  - Intersectionality
+
 projects: []
 image:
   caption: ""
