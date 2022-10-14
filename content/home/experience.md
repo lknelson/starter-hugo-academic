@@ -59,7 +59,7 @@ experience:
     company: Northwestern University
     company_url: 'https://www.northwestern.edu/'
     company_logo: org-nwu
-    location: California
+    location: Illinois
     date_start: '2014-08-15'
     date_end: '2016-08-14'
     description: |2-
