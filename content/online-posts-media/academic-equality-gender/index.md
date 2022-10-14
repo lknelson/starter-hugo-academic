@@ -1,10 +1,6 @@
 ---
 
-abstract: The stalled revolution was coined by sociologist Arlie Hochschild way back in 1989. In the 1970s and 1980s women changed. In particular, there was an influx of women into the workforce. But the cultural understanding of women’s place in the home, and the relationship between the workplace and family life, did not change. The resulting tension meant that, while women were working more, there was, and remains today, a persistent gendered pay gap, promotion gap (particularly in academia), and housework gap. There was, in other words, a stalled revolution.
-
-Thirty years after Hochschild coined this phrase here we are, still talking about it. 
-
-International Women’s Day, is the perennial opportunity to revisit this question. What will it take to unstall the stalled revolution?
+abstract: The stalled revolution was coined by sociologist Arlie Hochschild way back in 1989. In the 1970s and 1980s women changed. In particular, there was an influx of women into the workforce. But the cultural understanding of women’s place in the home, and the relationship between the workplace and family life, did not change. The resulting tension meant that, while women were working more, there was, and remains today, a persistent gendered pay gap, promotion gap (particularly in academia), and housework gap. There was, in other words, a stalled revolution. Thirty years after Hochschild coined this phrase here we are, still talking about it. International Women’s Day is the perennial opportunity to revisit this question. What will it take to unstall the stalled revolution?
 
 slides: ""
 url_pdf: ""
