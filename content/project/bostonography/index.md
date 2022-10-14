@@ -3,7 +3,7 @@ title: Bostonography
 summary: The City through Data, Texts, Maps, and Networks
 tags:
   - Data and Society
-  - Computational Methods
+  - Methods
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

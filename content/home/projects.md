@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Courses Taught
+title: Courses and Workshops
 subtitle: ''
 
 content:
@@ -27,12 +27,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Computational Methods
-      tag: Computational Methods
+    - name: Methods
+      tag: Methods
     - name: Data and Society
       tag: Data and Society
     - name: Theory
       tag: Theory
+    - name: Workshops
+      tag: Workshops
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
