@@ -14,7 +14,7 @@ url_project: ""
 publication_short: In *Poetics*
 url_source: ""
 url_video: ""
-title: "Leveraging the alignment between machine learning and intersectionality: Using word embeddings to measure intersectional experiences of the nineteenth century U.S. South"
+title: "Leveraging the Alignment Between Machine Learning and Intersectionality: Using Word Embeddings to Measure Intersectional Experiences of the Nineteenth Century U.S. South"
 subtitle: ""
 doi: 10.1016/j.poetic.2021.101539
 featured: true

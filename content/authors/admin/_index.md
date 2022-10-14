@@ -1,6 +1,6 @@
 ---
 title: Laura K. Nelson
-role: Professor of Sociology
+role: Assistant Professor of Sociology
 avatar_filename: avatar.jpg
 bio: I use computational methods to study social movements, culture, gender,
   institutions, and the history of feminism. I'm particularly interested in
@@ -40,7 +40,7 @@ education:
     - course: MA in Sociology
       institution: University of California, Berkeley
       year: ""
-    - course: BA in Sociology, Concentration in Analysis and Research
+    - course: BA in Sociology with a Concentration in Analysis and Research
       institution: University of Wisconsin, Madison
       year: ""
 email: ""
