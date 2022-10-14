@@ -10,8 +10,7 @@ authors:
   - admin
 author_notes: []
 publication: ''
-summary: Computer-assisted, or automated, text analysis is finally making its way into sociology, as evidenced by the new issue of Poetics devoted to one technique, topic modeling (Poetics 41, 2013). In my short time using automated text analysis methods I have noticed two recurring issues, both which I will address in this post. First, when I’ve presented these methods at conferences, and when I’ve seen others present these methods, the same two questions are inevitably asked and they have indeed come up again in response to this issue (more on this below). If you use these methods, you should have a response. Second, those who are attempting to use these methods often are not aware of the full range of techniques within the automated text analysis umbrella and choose a method based on convenience, not knowledge.
-url_dataset: ""
+summary: In this blog post I address two common critiques of computational text analysis, as they are articulated by Andrew Perrin, in his review of the Poetics special issue on topic modelling.
 url_project: ""
 publication_short: ''
 url_source: ''
