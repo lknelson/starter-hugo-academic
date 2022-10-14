@@ -15,6 +15,7 @@ url_dataset: ""
 url_project: ""
 publication_short: In SAGE Ocean
 url_source: https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview
+url_link: https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview
 url_video: ""
 title: "How do we nurture an academic landscape that is more accessible to women? Let’s start by getting rid of the in-person interview"
 subtitle: "In [SAGE Ocean](https://ocean.sagepub.com/blog/2019/3/6/how-do-we-nurture-an-academic-landscape-that-is-more-accessible-to-women-lets-start-by-getting-rid-of-the-in-person-interview)"
