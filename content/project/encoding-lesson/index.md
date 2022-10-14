@@ -1,6 +1,6 @@
 ---
 title: Encoding and Decoding when Working with Text
-summary: A short lesson on teaching encoding to non-CS majors
+summary: A short lesson on teaching text encoding to non-CS majors
 tags:
   - Workshops
 date: '2016-04-27T00:00:00Z'

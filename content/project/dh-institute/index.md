@@ -3,6 +3,7 @@ title: "Digital Humanities at Berkeley Summer Institute: Computational Text Anal
 summary: Teaching material for a 2017 workshop in computational text analysis for humanists (and social scientists)
 tags:
   - Workshops
+  - Methods
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
