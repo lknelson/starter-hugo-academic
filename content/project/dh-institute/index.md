@@ -1,5 +1,5 @@
 ---
-title: Digital Humanities at Berkeley Summer Institute: Computational Text Analysis
+title: "Digital Humanities at Berkeley Summer Institute: Computational Text Analysis"
 summary: Teaching material for a 2017 workshop in computational text analysis for humanists (and social scientists)
 tags:
   - Workshops
