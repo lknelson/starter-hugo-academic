@@ -29,14 +29,14 @@ content:
       tag: '*'
     - name: Courses
       tag: Courses
+    - name: Workshops
+      tag: Workshops
     - name: Methods
       tag: Methods
     - name: Data and Society
       tag: Data and Society
     - name: Theory
       tag: Theory
-    - name: Workshops
-      tag: Workshops
 
 
 design:
