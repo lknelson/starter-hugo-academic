@@ -1,6 +1,7 @@
 ---
 
 abstract: In this comment, I review the many subjective decisions embedded in cultural cartography to reframe the strength of computational methods in terms of transparency and replicability, not statistical objectivity. In an attempt to reorient the field toward a new standard for measuring meaning in big data, one based on transparency and replicability, I propose five guidelines to evaluate any text-analysis project.
+
 slides: ""
 url_pdf: "transparency-reproducibility.pdf"
 publication_types:
@@ -10,7 +11,6 @@ authors:
 author_notes: []
 publication: "*Sociological Methodology*"
 summary: In an attempt to reorient the field toward a new standard for measuring meaning in big data, one based on transparency and replicability, I propose five guidelines to evaluate any text-analysis project. 
-education system. 
 url_dataset: ""
 url_project: ""
 publication_short: In *Sociological Methodology*
