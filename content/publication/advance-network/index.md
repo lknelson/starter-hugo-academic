@@ -9,10 +9,7 @@ authors:
   - admin
 author_notes: []
 publication: "*ADVANCE Journal*"
-summary: As the ADVANCE program celebrates its 20th
-anniversary, we describe the growth and composition of the organizational network over the past
-two decades to explore the breadth and reach of the ADVANCE program in the U.S. higher
-education system. 
+summary: As the ADVANCE program celebrates its 20th anniversary, we describe the growth and composition of the organizational network over the past two decades to explore the breadth and reach of the ADVANCE program in the U.S. higher education system. 
 url_dataset: ""
 url_project: ""
 publication_short: In *ADVANCE Journal*
