@@ -1,18 +1,6 @@
 ---
 
-abstract: Since 2001, the NSF ADVANCE program has funded organizational change projects promoting
-gender equity in academic science, technology, engineering, and mathematics (STEM) fields.
-The connections between institutions and individuals involved in the ADVANCE program form
-a network of potential conduits for information sharing on how institutions can better address
-gender inequities in academic sciences. As the ADVANCE program celebrates its 20th
-anniversary, we describe the growth and composition of the organizational network over the past
-two decades to explore the breadth and reach of the ADVANCE program in the U.S. higher
-education system. We find that through interpersonal and organizational connections, the
-ADVANCE program has reached more than three times the number of organizations than have
-been directly funded. Furthermore, we outline several ways in which future ADVANCE
-awardees and stakeholders can better utilize the existing network structure to expand the
-knowledge created through the ADVANCE program to a more diverse institutional audience.
-
+abstract: Since 2001, the NSF ADVANCE program has funded organizational change projects promoting gender equity in academic science, technology, engineering, and mathematics (STEM) fields. The connections between institutions and individuals involved in the ADVANCE program form a network of potential conduits for information sharing on how institutions can better address gender inequities in academic sciences. As the ADVANCE program celebrates its 20th anniversary, we describe the growth and composition of the organizational network over the past two decades to explore the breadth and reach of the ADVANCE program in the U.S. higher education system. We find that through interpersonal and organizational connections, the ADVANCE program has reached more than three times the number of organizations than have been directly funded. Furthermore, we outline several ways in which future ADVANCE awardees and stakeholders can better utilize the existing network structure to expand the knowledge created through the ADVANCE program to a more diverse institutional audience.
 slides: ""
 url_pdf: "advance-network.pdf"
 publication_types:
