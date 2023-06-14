@@ -4,19 +4,19 @@ abstract: The gender order is incredibly durable, and persists relatively unchan
 slides: ""
 url_pdf: "feminists-reshaping-gender.pdf"
 publication_types:
-  - "2"
+  - "6"
 authors:
   - admin
 author_notes: []
-publication: "*Handbook on the Sociology of Gender*"
+publication: "*Handbook of the Sociology of Gender*"
 summary: The gender order is incredibly durable, and persists relatively unchanged despite major cultural and structural changes. Feminists, however, have collectively mobilized to change some aspects of the gender structure. This chapter traces that history and looks to the future.
 url_dataset: ""
 url_project: ""
-publication_short: In *Handbook on the Sociology of Gender*
+publication_short: In *Handbook of the Sociology of Gender*
 url_source: ""
 url_video: ""
 title: "Feminists Reshaping Gender"
-subtitle: In *Handbook on the Sociology of Gender*
+subtitle: In *Handbook of the Sociology of Gender*
 doi: 10.1007/978-3-319-76333-0_40
 featured: true
 tags:
