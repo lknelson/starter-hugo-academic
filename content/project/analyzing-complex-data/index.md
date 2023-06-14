@@ -24,7 +24,7 @@ url_pdf: analyzing-complex-data.pdf
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
+# Slides (optional).  
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
