@@ -6,7 +6,10 @@ url_pdf: "formally-comparing-topic-models.pdf"
 publication_types:
   - "2"
 authors:
+  - Adam S. Miner
+  - Sheridan A. Stewart
   - admin
+  - Eleni Linos
 author_notes: []
 publication: "*Big Data & Society*"
 summary: Differences between computationally generated and human-generated themes in unstructured text are important to understand yet difficult to assess formally. In this study, we bridge these approaches, comparing topic models to hand-generated categories and comparing two different topic modelling solutions.
