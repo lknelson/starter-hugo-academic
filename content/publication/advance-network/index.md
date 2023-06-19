@@ -6,7 +6,12 @@ url_pdf: "advance-network.pdf"
 publication_types:
   - "2"
 authors:
+  - Jessica R. Gold
+  - Alexander J. Gates
+  - Syed A. Haque
+  - Miranda C. Melson
   - admin
+  - Kathrin Zippel
 author_notes: []
 publication: "*ADVANCE Journal*"
 summary: As the ADVANCE program celebrates its 20th anniversary, we describe the growth and composition of the organizational network over the past two decades to explore the breadth and reach of the ADVANCE program in the U.S. higher education system. 
