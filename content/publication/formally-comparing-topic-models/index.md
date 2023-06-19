@@ -8,6 +8,7 @@ publication_types:
 authors:
   - Adam S. Miner
   - Sheridan A. Stewart
+  - Meghan C. Halley
   - admin
   - Eleni Linos
 author_notes: []
