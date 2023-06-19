@@ -6,6 +6,7 @@ url_pdf: "feminists-reshaping-gender.pdf"
 publication_types:
   - "6"
 authors:
+  - Alison Dahl Crossley
   - admin
 author_notes: []
 publication: "*Handbook of the Sociology of Gender*"
