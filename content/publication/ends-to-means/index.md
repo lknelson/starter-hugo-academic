@@ -6,6 +6,7 @@ url_pdf: "ends-to-means.pdf"
 publication_types:
   - "2"
 authors:
+  - Bart Bonikowski
   - admin
 author_notes: []
 publication: "*Sociological Methods & Research*"
