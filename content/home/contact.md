@@ -16,7 +16,7 @@ content:
   # Contact details (edit or remove options as required)
   email: laura.k.nelson@ubc.ca
   address:
-    street: ANSOC - 6303 NW Marine Dr
+    street: ANSO - 6303 NW Marine Dr
     city: Vancouver
     region: BC
     country: Canada
