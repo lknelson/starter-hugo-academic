@@ -15,7 +15,7 @@ url_project: ""
 publication_short: In *Research in Social Movements, Conflicts and Change*
 url_source: ""
 url_video: ""
-title: "Beyond Protests: Using Computational Text Analysis to Explore a Greater Variety of Social Movement Activitiesences of the Nineteenth Century U.S. South"
+title: "Beyond Protests: Using Computational Text Analysis to Explore a Greater Variety of Social Movement Activities"
 subtitle: "In *Research in Social Movements, Conflicts and Change*"
 doi: 10.1108/S0163-786X20230000047002
 featured: true

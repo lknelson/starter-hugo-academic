@@ -31,7 +31,7 @@ image:
   focal_point: SMART
   preview_only: false
   filename: featured.png
-date: 2023-08-01T01:00:00.000Z
+date: 2023-01-24T01:00:00.000Z
 url_slides: ""
 publishDate: 2023-01-24T00:00:00.000Z
 url_poster: ""
