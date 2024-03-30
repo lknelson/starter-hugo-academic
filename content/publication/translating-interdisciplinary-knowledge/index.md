@@ -30,7 +30,7 @@ image:
   focal_point: SMART
   preview_only: false
   filename: featured.png
-date: 2022-05-16T01:00:00.000Z
+date: 2024-02-25T01:00:00.000Z
 url_slides: ""
 publishDate: 2024-02-25T00:00:00.000Z
 url_poster: ""
