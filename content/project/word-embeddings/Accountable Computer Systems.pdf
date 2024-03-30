@@ -1,0 +1,3027 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo">
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="Accountable%20Computer%20Systems_files/css2.css">
+      <link rel="stylesheet" href="Accountable%20Computer%20Systems_files/css2.css" media="all" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Thomas Pasquier">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Interdisciplinary graduate class on Accountable Computer Systems at UBC.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://tfjmp.org/ubc-accountable-computer-systems/">
+
+  
+  
+  
+    <meta name="theme-color" content="#0072ff">
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="Accountable%20Computer%20Systems_files/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="all" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="Accountable%20Computer%20Systems_files/wowchemy.d768cf7de9d9f1db2d4494d6d0fc62d6.css">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="Accountable%20Computer%20Systems_files/github-light.min.css" title="hl-light" media="all" onload="this.media='all'">
+    <link rel="stylesheet" href="Accountable%20Computer%20Systems_files/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled="">
+  
+
+  
+  
+
+
+
+  
+
+<script type="text/javascript" async="" src="Accountable%20Computer%20Systems_files/js"></script><script async="" src="Accountable%20Computer%20Systems_files/gtm.js"></script><script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W7M7XP3');
+</script>
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+    <script src="Accountable%20Computer%20Systems_files/netlify-identity-widget.js"></script>
+  
+
+  
+  
+    <link rel="alternate" href="https://tfjmp.org/ubc-accountable-computer-systems/index.xml" type="application/rss+xml" title="Accountable Computer Systems">
+  
+
+  
+  
+    <link rel="manifest" href="https://tfjmp.org/ubc-accountable-computer-systems/manifest.webmanifest">
+  
+
+  
+  <link rel="icon" type="image/png" href="https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_180x180_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://tfjmp.org/ubc-accountable-computer-systems/">
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Accountable Computer Systems">
+  <meta property="og:url" content="https://tfjmp.org/ubc-accountable-computer-systems/">
+  <meta property="og:title" content="Accountable Computer Systems">
+  <meta property="og:description" content="Interdisciplinary graduate class on Accountable Computer Systems at UBC."><meta property="og:image" content="https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png">
+    <meta property="twitter:image" content="https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="og:updated_time" content="2022-01-01T00:00:00+00:00">
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://tfjmp.org/ubc-accountable-computer-systems/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://tfjmp.org/ubc-accountable-computer-systems/"
+}
+</script>
+
+
+  
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://tfjmp.org/ubc-accountable-computer-systems/",
+  "name": "Accountable Computer Systems",
+  "logo": "https://tfjmp.org/ubc-accountable-computer-systems/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_192x192_fill_lanczos_center_3.png",
+  
+  
+  
+  
+  "url": "https://tfjmp.org/ubc-accountable-computer-systems/"
+}
+</script>
+
+  
+
+  
+
+
+  <title>Accountable Computer Systems</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">.medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)!important}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="prefetch" href="https://tfjmp.org/"><link rel="prefetch" href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/"><link rel="prefetch" href="https://tfjmp.org/ubc-accountable-computer-systems/author/margo-seltzer/"></head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="Accountable%20Computer%20Systems_files/wowchemy-init.min.1ee5462d74c6c0de1f8881b384ecc58d.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="none" autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control" aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="https://tfjmp.org/">Accountable Computer Systems</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="https://tfjmp.org/">Accountable Computer Systems</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link" href="https://tfjmp.org/ubc-accountable-computer-systems/" data-target="[]"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://tfjmp.org/ubc-accountable-computer-systems/#schedule"><span>Schedule</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://tfjmp.org/ubc-accountable-computer-systems/#invited"><span>Speakers</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://tfjmp.org/ubc-accountable-computer-systems/#assess"><span>Assesments</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://tfjmp.org/ubc-accountable-computer-systems/post/"><span>Student Blog</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-blank  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Accountable Computer Systems</h1>
+            <p class="mt-1">ARST 556Q – CPSC 538S – LAW 432D – LIBR 569C</p>
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <p>We rely on computer systems to store, process, and transmit practically all data whose reliability,
+accuracy, authenticity, privacy, security, and integrity are vital and regulated. Applications in human
+resources, medicine, education, finance, and public surveillance use machine learning models to
+make critical decisions that directly affect people. However, the systems on which these applications
+run are opaque; we rarely know what decisions are being made, how they are being made, why they
+are being made, and the degree of certainty any piece of software has regarding these decisions.
+This lack of transparency erodes public trust and deprives people of their agency. Solutions to this
+problem lie at the intersection of technology, recordkeeping and preservation, law, public policy, and
+business. Yet, few individuals understand the language, concepts, constraints, requirements, and
+possibilities in more than one of these fields, let alone all. This course will bring together students
+from a diverse set of backgrounds who will learn from an equally diverse group of faculty and outside
+experts in law, computer science, public policy, artificial intelligence, digital records management
+and preservation, philosophy, and machine learning how to identify real problems that might require
+technical or partially-technical solutions, the language in which to communicate between multiple
+disciplines, and the possible approaches for addressing the most pressing challenges.</p>
+<p>We invite graduate students to consider the complex societal impact of computer systems. Students
+will form interdisciplinary teams to undertake a project of their choice, reimagining technology to
+reduce its negative impact based on technical, ethical, socio-economic, and legal considerations.</p>
+<h1 id="course-format">Course format</h1>
+<p>This course combines lectures, presentations by guest speakers, and student-led discussions. We
+emphasize students’ ability to engage in non-academic public scholarship.</p>
+<h1 id="learning-outcomes">Learning Outcomes</h1>
+<p>After taking this course, the students will be able to:</p>
+<ol>
+<li>Identify and analyze the ways in which technical solutions can affect society.</li>
+<li>Address conflicting disciplinary concepts and viewpoints, and suggest solutions.</li>
+<li>Communicate and work in interdisciplinary teams.</li>
+<li>Produce scholarly material and activities engaging the public.</li>
+<li>Communicate effectively with diverse audiences.</li>
+<li>Interact with the public in a professional way.</li>
+</ol>
+<h1 id="course-admissions">Course admissions</h1>
+<p>This course is open to any UBC graduate student but is designed for those enrolled in graduate
+programs in Law, Information Studies, Sociology, and Computer Science. Admissions is based on
+home department criteria.</p>
+<div class="alert alert-note">
+  <div>
+    <h3 id="where-to-register">Where to register?</h3>
+<p><strong>Information Science Students:</strong> <a href="https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&amp;tname=subj-section&amp;dept=LIBR&amp;course=569C&amp;section=002" target="_blank" rel="noopener">LIBR 569C 002</a></p>
+<p><strong>Computer Science Students:</strong> <a href="https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&amp;tname=subj-course&amp;dept=CPSC&amp;course=538S" target="_blank" rel="noopener">CPSC 538S</a></p>
+<p><strong>Law Students:</strong> <a href="https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&amp;tname=subj-section&amp;dept=LAW&amp;course=432D&amp;section=003" target="_blank" rel="noopener">LAW 432D 003</a></p>
+<p><strong>Archival Studies Students:</strong> <a href="https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&amp;tname=subj-section&amp;dept=ARST&amp;course=556Q&amp;section=002" target="_blank" rel="noopener">ARST 556Q 002</a></p>
+  </div>
+</div>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="invited" class="home-section wg-people  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Invited Speakers</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/lorenzo-cavallaro/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu9a311a1a68ec33e0ce1589e3b17ec4df_4913_270x270_fill_.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/lorenzo-cavallaro/">Lorenzo Cavallaro</a></h2>
+      
+      <h3>Invited Speaker</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:l.cavallaro@ucl.ac.uk">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/lcavallaro" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu7c4171f4c17037574ae2b93b67dd5751_10642_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/">TBC</a></h2>
+      
+      <h3>Invited Speaker</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tbc">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/tbc">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu7c4171f4c17037574ae2b93b67dd5751_10642_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/">TBC</a></h2>
+      
+      <h3>Invited Speaker</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tbc">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/tbc">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu7c4171f4c17037574ae2b93b67dd5751_10642_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/tbc/">TBC</a></h2>
+      
+      <h3>Invited Speaker</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tbc">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/tbc">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="experts" class="home-section wg-people  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>UBC Expert Speakers</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/vered-shwartz/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu34514a699a60b401a26103e242587524_758581_270x270_fil.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/vered-shwartz/">Vered Shwartz</a></h2>
+      
+      <h3>Expert Speaker</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:vered.shwartz@ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.cs.ubc.ca/~vshwartz/" target="_blank" rel="noopener">
+        <i class="fas fa-link"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/veredshwartz?lang=en" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="instructors" class="home-section wg-people  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Instructors</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/thomas-pasquier/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu2ba583616907df115841eab85ebdcd50_9319_270x270_fill_.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/thomas-pasquier/">Thomas Pasquier</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:tfjmp@cs.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/tfjmp" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/benjamin-goold/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu41bf242901fd555f3832ba1aac5e76b6_33716_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/benjamin-goold/">Benjamin Goold</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:goold@allard.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://allard.ubc.ca/about-us/our-people/benjamin-goold" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/cristie-ford/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu26dc29020de4604f97c68b7d344ca5eb_36168_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/cristie-ford/">Cristie Ford</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:ford@allard.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/CristieFord_Law" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/kristen-thomasen/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu5b72b0116dd4e94eee214b89c02e224e_39668_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/kristen-thomasen/">Kristen Thomasen</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:thomasen@allard.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/KristenThomasen" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/laura-nelson/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hua474fe29e9a0a9f528d25ad17b637595_3842685_270x270_fi.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/laura-nelson/">Laura Nelson</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:laura.k.nelson@ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/LauraK_Nelson" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/luciana-duranti/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hua53270302da6b920ac899ccf4802c657_306154_270x270_fil.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/luciana-duranti/">Luciana Duranti</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:luciana.duranti@ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/durantiubc?lang=en" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/margo-seltzer/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hud3ac0de01c405043f74bbb3ad81118c6_187792_270x270_fil.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/margo-seltzer/">Margo Seltzer</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:mseltzer@cs.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/margo_seltzer" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/muhammad-abdul-mageed/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hue2b5f9d0417768b4422842ee3bbb602e_25870_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/muhammad-abdul-mageed/">Muhammad Abdul-Mageed</a></h2>
+      
+      <h3>Instructor</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:muhammad.mageed@ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/mageed?lang=en" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="assistant" class="home-section wg-people  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Teaching Assistants</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/jessie-gomberg/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hue4bea2a036f95e141e9e364387335e44_50999_270x270_fill.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/jessie-gomberg/">Jessie Gomberg</a></h2>
+      
+      <h3>Teaching Assistant</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:jgomberg@student.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="https://tfjmp.org/ubc-accountable-computer-systems/author/soo-yee-lim/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="Accountable%20Computer%20Systems_files/avatar_hu60afb8a6f73c9c80a07690a394bf3ebb_1884556_270x270_fi.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="https://tfjmp.org/ubc-accountable-computer-systems/author/soo-yee-lim/">Soo Yee Lim</a></h2>
+      
+      <h3>Teaching Assistant</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sooyee@cs.ubc.ca">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="schedule" class="home-section wg-blank  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Schedule</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <p>Winter 2 – Monday – 2pm-5pm</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cjtp{background-color:#ecf4ff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-266k{background-color:#9b9b9b;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-zme7{background-color:#ffce93;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-pzl3{background-color:#ffc702;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-61xu{background-color:#cbcefb;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-smvl{background-color:#fd6864;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-rleq{background-color:#68cbd0;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-9u2q{background-color:#9b9b9b;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-90e1{background-color:#ffccc9;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg .table">
+<thead>
+  <tr>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Lecture I</th>
+    <th class="tg-0pky">Lecture II</th>
+    <th class="tg-0pky">Activity</th>
+    <th class="tg-0pky">Deadline (Fridays)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">January 8</td>
+    <td class="tg-61xu">Course Introduction (Prof. Pasquier)</td>
+    <td class="tg-61xu">Computer Security I (Prof. Pasquier)</td>
+    <td class="tg-smvl">Ice Breaker</td>
+    <td class="tg-266k">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">January 15</td>
+    <td class="tg-61xu">Computer Security II (Prof. Pasquier)</td>
+    <td class="tg-61xu">Computer Security III (Prof. Pasquier)</td>
+    <td class="tg-pzl3">Reading Group/Seminar</td>
+    <td class="tg-266k">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">January 22</td>
+    <td class="tg-61xu">Computer Security IV (Prof. Pasquier)</td>
+    <td class="tg-61xu">Computer Security V (Prof. Pasquier)</td>
+    <td class="tg-rleq">Student-led discussion</td>
+    <td class="tg-266k">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">January 29</td>
+    <td class="tg-zme7" colspan="3">Project Proposal Presentation</td>
+    <td class="tg-0pky">Project Proposal</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">February 5</td>
+    <td class="tg-61xu">Introduction to Cloud Computing (Prof. Pasquier)</td>
+    <td class="tg-elvq">Data Sovereignty (the indigenous perspective)&nbsp;&nbsp;(Prof. Nelson)</td>
+    <td class="tg-rleq">Student-led discussion</td>
+    <td class="tg-0pky">OP-ed 1 (draft)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">February 12</td>
+    <td class="tg-61xu">Guest: Generative AI and Education (Prof. Shwartz)</td>
+    <td class="tg-61xu">Introduction to Fairness (Prof. Pasquier)</td>
+    <td class="tg-pzl3">Reading Group/Seminar</td>
+    <td class="tg-0pky">OP-ed 1 (peer)</td>
+  </tr>
+  <tr>
+    <td class="tg-266k">February 19</td>
+    <td class="tg-9u2q" colspan="3">Mid-term Break</td>
+    <td class="tg-0pky">Proposal Review</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">February 26</td>
+    <td class="tg-cjtp">Technological authenticity and authentication I (Prof. Duranti)</td>
+    <td class="tg-cjtp">Technological authenticity and authentication II (Prof. Duranti)</td>
+    <td class="tg-rleq">Student-led discussion</td>
+    <td class="tg-0pky">OP-ed 1 (final)<br> Proposal (final)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">March 4</td>
+    <td class="tg-cjtp">Technological authenticity and authentication III (Prof. Duranti)</td>
+    <td class="tg-61xu">Data Provenance (Prof. Seltzer)</td>
+    <td class="tg-pzl3">Reading Group/Seminar</td>
+    <td class="tg-266k">N/A</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">March 11</td>
+    <td class="tg-90e1">Risk to Privacy on the Internet I (Prof. Goold)</td>
+    <td class="tg-90e1">Risk to Privacy on the Internet II (Prof. Goold)</td>
+    <td class="tg-rleq">Student-led discussion</td>
+    <td class="tg-0pky">OP-ed 2 (draft)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">March 18</td>
+    <td class="tg-zme7" colspan="3">Project Presentation</td>
+    <td class="tg-0pky">OP-ed 2 (peer)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">March 25</td>
+    <td class="tg-61xu">TBC (Prof. Pasquier)</td>
+    <td class="tg-elvq">Surveillance Capitalism (Prof. Nelson)</td>
+    <td class="tg-rleq">Student-led discussion</td>
+    <td class="tg-0pky">OP-ed 2 (final)</td>
+  </tr>
+  <tr>
+    <td class="tg-266k">April 1</td>
+    <td class="tg-9u2q" colspan="4">Easter Monday</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">April 8</td>
+    <td class="tg-elvq">Bias and Machine Learning - the sociological perspective (Prof. Nelson)</td>
+    <td class="tg-90e1">Bias and Machine learning - legal dimensions (Prof. Thomasen)</td>
+    <td class="tg-pzl3">Reading Group/Seminar</td>
+    <td class="tg-0pky">Project Report</td>
+  </tr>
+</tbody>
+</table>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="assess" class="home-section wg-blank  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Assessments</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <h2 id="evaluation-criteria-and-grading">Evaluation Criteria and Grading</h2>
+<ol>
+<li>Classroom discussion and facilitation – 20%</li>
+<li>Individual OP-eds – 20%</li>
+<li>Interdisciplinary project – 60% (report 30%, presentation 15%, video 15%)</li>
+</ol>
+<h2 id="classroom-discussion-and-facilitation--20">Classroom discussion and facilitation – 20%</h2>
+<p>Each week, we will spend part of our class discussing assigned reading material for that week. For
+selected classes, small teams of 2 or 3 students will be discussion leaders (leaders will be identified in
+Week 2). Discussion leads will have two responsibilities:</p>
+<ul>
+<li>Before class. Prepare 2-3 discussion questions on a topic chosen by the students
+and relating to material covered during classes.
+Students are encouraged to look into recent events relating to computer technology and its impact on individuals and society.
+You can add two additional articles (academic articles or good quality news articles) related to your topic of choice.
+Send the list of questions and reading material to all class members (including the instructors)
+by Friday 4.00 pm before the Monday class so that your classmates can reflect on the questions and come to
+class with prepared for discussion.</li>
+<li>During the synchronous class. Offer a total of ∼50 minutes of activities. This should include a
+brief introduction (5-10 minutes) to the topic of the day, including the rationale for the discussion
+questions mentioned above, followed by 30-45 minutes of discussion or activities. Students must
+demonstrate the ability to (1) explain both the background and current context of class topics, in
+depth and (2) design a creative and engaging “game plan” for the class discussion.</li>
+</ul>
+<p>We expect that all class members will read all required readings and actively participate in class
+discussions and activities. The grade for this assessment component will be assigned both on the
+ability to lead a discussion and participation throughout the term.</p>
+<h2 id="individual-op-ed--20">Individual OP-ed – 20%</h2>
+<p>At the end of Weeks 8 and 11, students will submit Op-Eds (∼600 – 800 words) based on a topic covered
+in one of the previous week’s classes. Other classmates will review these submissions before grading to
+encourage interaction between different viewpoints. The op-eds must be accessible to a broad non-expert
+audience.</p>
+<div class="alert alert-note">
+  <div>
+    <p><strong>Submission Instruction.</strong></p>
+<p>Draft + Peer Review on HotCRP (link available on Canvas).</p>
+<p>Final submission should be made directly on Canvas.</p>
+  </div>
+</div>
+<h2 id="interdisciplinary-project--60">Interdisciplinary project – 60%</h2>
+<p>Inter-disciplinary groups of 3-5 students will explore and address a concrete challenge. Students will
+examine the technical, societal, and legal aspects and propose ways of addressing those challenges.
+At the end of week 4, students will submit a
+proposal that will be both peer-reviewed and discussed with the instructors (10% of course grade).
+They will work on this project for the duration of the course.
+They will prepare a presentation (15% of
+the course grade), to be presented to a public of their peers.
+Each group will also prepare a video (15% of the course grade)
+for a general audience to be published on the course website.
+Finally, students will write a report
+(∼4,000 words, not including figures/tables/charts and references). The report must be accessible to
+an interdisciplinary academic audience (20% of your final grade). Careful consideration must be given to the target audience of
+the different project outcomes.</p>
+<div class="alert alert-note">
+  <div>
+    <p><strong>Submission Instruction.</strong></p>
+<p>Proposal + Peer Review on HotCRP (link available on Canvas).</p>
+<p>Final Report and Video Presentation submission should be made directly on Canvas.</p>
+  </div>
+</div>
+<h3 id="written-assignment-grading-criteria">Written Assignment Grading Criteria</h3>
+<p>Assignments will be graded on a 0 to 10 scale across the following key areas:</p>
+<h4 id="structure--logic">Structure &amp; Logic</h4>
+<p><strong>Thesis Clarity:</strong> Is there a clear <a href="https://wiki.ubc.ca/images/4/4a/Thesis_Statements.pdf" target="_blank" rel="noopener">thesis statement</a> outlining the main argument?</p>
+<p><strong>Organization:</strong> Is the content logically organized from introduction to conclusion?</p>
+<p><strong>Argument Linkage:</strong> Are arguments logically connected and supportive of the thesis?</p>
+<h4 id="argumentation--evidence">Argumentation &amp; Evidence</h4>
+<p><strong>Argument Relevance:</strong> Are the chosen arguments directly relevant to the thesis?</p>
+<p><strong>Evidence Use:</strong> Are arguments supported with appropriate evidence and examples?</p>
+<p><strong>Counterargument Consideration:</strong> Are opposing viewpoints (when appropriate) acknowledged and addressed?</p>
+<h4 id="understanding-of-subject">Understanding of Subject</h4>
+<p><strong>Conceptual Mastery:</strong> Is there a thorough understanding of the topic and key concepts?</p>
+<p><strong>Contextual Insight:</strong> Does the work reflect awareness of the broader context and implications?</p>
+<h4 id="clarity--presentation">Clarity &amp; Presentation</h4>
+<p><strong>Language:</strong> Is the assignment written in clear, correct English?</p>
+<p><strong>Readability:</strong> Are complex ideas communicated effectively?</p>
+<p><strong>Audience:</strong> Is the work understandable by the target audience?</p>
+<h4 id="visual-aids">Visual Aids</h4>
+<p><strong>Design &amp; Integration:</strong> Are figures and tables well-designed and relevant to the text?</p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="policies" class="home-section wg-blank  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Course Policies</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <p><strong>Late Assignments.</strong> You will not receive credit 
+for late assignments. Contact the instructor or your TA promptly (i.e., 
+as soon as you are aware of the problem) if a medical or family reason 
+prevents you from handing in any component of your writing assignments 
+on time. The same policy apply for oral presentations.</p>
+<p>In extraordinary circumstances, we may allow late turn-in of some 
+assignments if you contact course staff (send an e-mail using your UBC 
+e-mail account) with a clear explanation of the problem well in advance 
+of the deadline (i.e., at least 48 hours). Poor planning or 
+procrastination do not constitute extraordinary circumstances.</p>
+<p><strong>Academic Integrity.</strong> The academic enterprise is 
+founded on honesty, civility, and integrity. As members of this 
+enterprise, all students are expected to know, understand, and follow 
+the codes of conduct regarding academic integrity. At the most basic 
+level, this means submitting only original work done by you and 
+acknowledging all sources of information or ideas and attributing them 
+to others as required. This also means you should not cheat, copy, or 
+mislead others about what is your work. Violations of academic integrity
+ (i.e, misconduct) lead to the breakdown of the academic enterprise, and
+ therefore serious consequences arise and harsh sanctions are imposed. 
+For example, incidences of plagiarism or cheating may result in a mark 
+of zero on the assignment or exam and more serious consequences may 
+apply if the matter is referred to the President’s Advisory Committee on
+ Student Discipline. Careful records are kept in order to monitor and 
+prevent recurrences.</p>
+<p><strong>Academic Misconduct at UBC.</strong> Official information about Academic Integrity and Misconduct can be found at the following links:</p>
+<ul>
+<li><a href="https://academicintegrity.ubc.ca/" target="_blank" rel="noopener">Academic Integrity at UBC</a></li>
+<li><a href="https://learningcommons.ubc.ca/understand-academic-integrity/" target="_blank" rel="noopener">Understand Academic Integrity</a></li>
+<li><a href="https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/student-conduct-and-discipline/discipline-academic-misconduct" target="_blank" rel="noopener">Discipline for Academic Misconduct</a></li>
+</ul>
+<p><strong>Respectful Environment.</strong> Everyone involved with this course is responsible for understanding and abiding by the <a href="https://hr.ubc.ca/working-ubc/respectful-environment" target="_blank" rel="noopener">UBC Statement on Respectful Environment for Students, Faculty and Staff</a>.
+ The statement speaks to our freedoms and our responsibilities, and 
+provides the guiding principles to support us in building an environment
+ in which respect, civility, diversity, opportunity and inclusion are 
+valued.</p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="reading" class="home-section wg-blank  ">
+   <div class="home-section-bg ">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Reading Material</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <h3 id="week-1">Week 1</h3>
+<p>Cobbe, Jennifer, Michael Veale, and Jatinder Singh. “Understanding 
+accountability in algorithmic supply chains.” Proceedings of the 2023 
+ACM Conference on Fairness, Accountability, and Transparency. 2023. <a href="https://arxiv.org/pdf/2304.14749.pdfgit" target="_blank" rel="noopener">link</a></p>
+<p>Kroll, Joshua A. “Accountability in computer systems.” The Oxford handbook of ethics of AI (2020): 181-196. <a href="https://academic.oup.com/edited-volume/34287/chapter/290661049" target="_blank" rel="noopener">link</a></p>
+<p>Bonneau, Joseph, et al. “The quest to replace passwords: A framework 
+for comparative evaluation of web authentication schemes.” 2012 IEEE 
+Symposium on Security and Privacy. IEEE, 2012. <a href="https://ieeexplore.ieee.org/abstract/document/6234436" target="_blank" rel="noopener">link</a></p>
+<p>Ion, Iulia, Rob Reeder, and Sunny Consolvo. “”… no one can hack my 
+mind": Comparing Expert and Non-Expert Security Practices." Eleventh 
+Symposium On Usable Privacy and Security (SOUPS 2015). 2015. <a href="https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf" target="_blank" rel="noopener">link</a></p>
+<h3 id="week-2">Week 2</h3>
+<p>Akhawe, Devdatta, et al. “Here’s my cert, so trust me, maybe? 
+Understanding TLS errors on the web.” Proceedings of the 22nd 
+international conference on World Wide Web. 2013. <a href="https://devd.me/papers/trustmemaybe.pdf" target="_blank" rel="noopener">link</a></p>
+<p>Akhawe, Devdatta, and Adrienne Porter Felt. “Alice in warningland: a 
+Large-Scale field study of browser security warning effectiveness.” 22nd
+ USENIX security symposium (USENIX Security 13). 2013. <a href="https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf" target="_blank" rel="noopener">link</a></p>
+<h3 id="week-3">Week 3</h3>
+<p>Dingledine, Roger, Nick Mathewson, and Paul F. Syverson. “Tor: The 
+second-generation onion router.” USENIX security symposium. Vol. 4. 
+2004. <a href="https://pdos.csail.mit.edu/archive/6.824-2012/papers/dingledine-tor.pdf" target="_blank" rel="noopener">link</a></p>
+<p>Murdoch, Steven J., and George Danezis. “Low-cost traffic analysis of
+ Tor.” 2005 IEEE Symposium on Security and Privacy (S&amp;P'05). IEEE, 
+2005. <a href="https://murdoch.is/papers/oakland05torta.pdf" target="_blank" rel="noopener">link</a></p>
+<p>Watch: <a href="https://www.youtube.com/watch?v=15RTC22Z2xI&amp;ab_channel=HBSDigitalInitiative" target="_blank" rel="noopener">Blockchains Are a Bad Idea (James Mickens), Harvard Business School</a></p>
+<h3 id="week-4">Week 4</h3>
+<p>N/A (Project Proposal presentations)</p>
+<h3 id="week-5">Week 5</h3>
+<p>ARMBRUST, Michael, et al. “A View of Cloud Computing.” Communications of the ACM 53.4 (2010): 50-58. <a href="https://sites.cs.ucsb.edu/~rich/class/cs293-cloud/papers/berkeley.pdf" target="_blank" rel="noopener">link</a></p>
+<p>Will Engle and Valeria De La Vega “Open Dialogues: Daniel Heath Justice on Decolonizing Open.” 2020 <a href="https://open.ubc.ca/open-dialogues-daniel-heath-justice/" target="_blank" rel="noopener">link</a></p>
+<p>Desi Rodriguez-Lonebear (2016). “Building a Data Revolution in Indian
+ Country.” In T. Kukutai &amp; J. Taylor (Eds.), Indigenous Data 
+Sovereignty. Canberra: Australia National University Press. <a href="https://library.oapen.org/bitstream/handle/20.500.12657/31875/624262.pdf?sequence=1#page=277" target="_blank" rel="noopener">link</a></p>
+<p>Kimberly R. Huyser (2020). “Data and Native American Identity.” Contexts 19 (3): 10-15. <a href="https://journals.sagepub.com/doi/10.1177/1536504220950395" target="_blank" rel="noopener">link</a></p>
+<p>Watch/Read:</p>
+<ul>
+<li><a href="https://scalar.usc.edu/ravenspace/as-i-remember-it/respecting-traditional-knowledge" target="_blank" rel="noopener">Ravenspace: Respecting Traditional Knowledge</a></li>
+<li><a href="https://www.npr.org/transcripts/540671012" target="_blank" rel="noopener">The U.S. Census and Our Sense of Us</a></li>
+<li><a href="https://www.statcan.gc.ca/en/census/census-engagement/about/how-data-used" target="_blank" rel="noopener">How are census data used?</a></li>
+<li><a href="https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/pop111-eng.cfm" target="_blank" rel="noopener">Population Group</a></li>
+<li><a href="https://www.cbc.ca/news/politics/statistics-canada-multiple-visible-minorities-1.6106571" target="_blank" rel="noopener">Statistics Canada exploring changes to census to more accurately reflect Canada’s diversity</a></li>
+</ul>
+<h3 id="week-6">Week 6</h3>
+<p>Understanding the world of AI, CBC Vancouver <a href="https://www.youtube.com/watch?v=vyk7j9zvt50&amp;ab_channel=CBCVancouver" target="_blank" rel="noopener">link</a></p>
+<p>Kyi, Lin, et al. “Investigating deceptive design in GDPR’s legitimate
+ interest.” Proceedings of the 2023 CHI Conference on Human Factors in 
+Computing Systems. 2023. <a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3580637" target="_blank" rel="noopener">link</a></p>
+<p><a href="https://www.youtube.com/watch?v=fMym_BKWQzk&amp;ab_channel=TheArtificialIntelligenceChannel" target="_blank" rel="noopener">The Trouble with Bias - NIPS 2017 Keynote - Kate Crawford</a></p>
+<p><a href="https://www.youtube.com/watch?v=jIXIuYdnyyk&amp;ab_channel=ArvindNarayanan" target="_blank" rel="noopener">Tutorial: fairness definitions and their politics</a></p>
+<p><a href="https://fairmlbook.org/" target="_blank" rel="noopener">FAIRNESS AND MACHINE LEARNING - Limitations and Opportunities. Solon Barocas, Moritz Hardt, Arvind Narayanan</a> (this is a book you should not feel that reading everything is required)</p>
+<p><a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm" target="_blank" rel="noopener">How We Analyzed the COMPAS Recidivism Algorithm. Jeff Larson, Surya Mattu, Lauren Kirchner and Julia Angwin</a></p>
+<p><a href="https://theconversation.com/artificial-intelligence-needs-to-be-trained-on-culturally-diverse-datasets-to-avoid-bias-222811" target="_blank" rel="noopener">Artificial intelligence needs to be trained on culturally diverse datasets to avoid bias. Vered Shwartz</a></p>
+<h3 id="week-7">Week 7</h3>
+<p>Luciana Duranti, Corinne Rogers and Kenneth Thibodeau, 
+“Authenticity,” Archives and Records, 43:2 (July 2022), 188-203. 
+[article on canvas]</p>
+<p>Jeremy Davet, Babak Hamizadeh and Pat Franks, “Archivist in the 
+Machine: Paradata for AI-Based Automation in the Archives,” Archival 
+Science (2023) 23: 275–295. [article on canvas]</p>
+<p>Hoda Amal Hamouda, “Authenticating Citizen Journalism Videos by 
+Incorporating the View of Archival Diplomatics into the Verification 
+Processes of Open-source Investigations (OSINT),” IEEE Sorrento 2023, 
+Conference Proceedings <a href="https://ai-collaboratory.net/wp-content/uploads/2023/11/S01211_9948.pdf" target="_blank" rel="noopener">link</a></p>
+<h3 id="week-8">Week 8</h3>
+<p>Carata, Lucian, et al. “A Primer on Provenance: Better understanding 
+of data requires tracking its history and context.” Queue 12.3 (2014): 
+10-23. <a href="https://www.seltzer.com/assets/publications/A-Primer-on-Provenance.pdf" target="_blank" rel="noopener">link</a></p>
+<h3 id="week-9">Week 9</h3>
+<p>Clement, Andrew, and Jonathan A. Obar. “Canadian internet “boomerang”
+ traffic and mass NSA surveillance: Responding to privacy and network 
+sovereignty challenges.” Law, privacy and surveillance in Canada in the 
+post-Snowden era (2015): 13-44. <a href="https://ecommoutsourcing.ischool.utoronto.ca/wp-content/uploads/ClementObar-CanadianInternetBoomerangTraffic-Geist-collection-SeeingThroughTheCloudAppendixC.pdf" target="_blank" rel="noopener">link</a></p>
+<p>Solove, Daniel J. “The myth of the privacy paradox.” Geo. Wash. L. Rev. 89 (2021): 1. <a href="https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2738&amp;context=faculty_publications" target="_blank" rel="noopener">link</a></p>
+<p>R. v. Bykovets, 2024 SCC 6 <a href="https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/20302/index.do" target="_blank" rel="noopener">link</a></p>
+<h3 id="week-11">Week 11</h3>
+<p>N/A (Project presentations)</p>
+<h3 id="week-12">Week 12</h3>
+<p>TBC</p>
+<h3 id="week-13">Week 13</h3>
+<p>Alina Arseniev-Koehler &amp; Jacob G. Foster (2022). “Machine 
+Learning as a Model for Cultural Learning: Teaching an Algorithm What it
+ Means to be Fat.” Sociological Methods &amp; Research, 51(4), 
+1484–1539. <a href="https://journals.sagepub.com/doi/pdf/10.1177/00491241221122603" target="_blank" rel="noopener">link</a></p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="Accountable%20Computer%20Systems_files/vendor-bundle.min.2621b0c3d1130efc0b22bddd510b0848.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="Accountable%20Computer%20Systems_files/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="Accountable%20Computer%20Systems_files/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="Accountable%20Computer%20Systems_files/wowchemy.min.85290d887e7fcdd400ccb3ffb9bcd3e3.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe id="netlify-identity-widget" title="Netlify identity widget" style="position: fixed; top: 0; left: 0; border: none; width: 100%; height: 100%; overflow: visible; background: transparent; display: none; z-index: 99; " src="Accountable%20Computer%20Systems_files/a.html"></iframe><protonpass-root-2b5b data-protonpass-role="root"></protonpass-root-2b5b></body></html>
