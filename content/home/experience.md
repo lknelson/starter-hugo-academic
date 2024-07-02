@@ -22,13 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Associate Professor of Sociology
+    company: University of British Columbia
+    company_url: 'https://www.ubc.ca/'
+    company_logo: org-ubc
+    location: Vancouver, BC
+    date_start: '2024-07-01'
+    date_end: ''
+    description: |2-
+      * Director - Centre for Computational Social Science
+      
   - title: Assistant Professor of Sociology
     company: University of British Columbia
     company_url: 'https://www.ubc.ca/'
     company_logo: org-ubc
     location: Vancouver, BC
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2024-06-30'
     description: |2-
       * Director - Centre for Computational Social Science
 
