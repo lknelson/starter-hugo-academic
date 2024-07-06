@@ -1,6 +1,6 @@
 ---
 title: Laura K. Nelson
-role: Assistant Professor of Sociology
+role: Associate Professor of Sociology
 avatar_filename: avatar.jpg
 bio: I use computational methods to study social movements, culture, gender,
   institutions, and the history of feminism. I'm particularly interested in
