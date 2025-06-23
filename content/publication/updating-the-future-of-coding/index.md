@@ -19,7 +19,7 @@ url_project: ""
 publication_short: In *Sociological Methods & Research*
 url_source: ""
 url_video: ""
-title: Updating "The Future of Coding": Qualitative Coding with Generative Large Language Models
+title: "Updating "The Future of Coding": Qualitative Coding with Generative Large Language Models"
 subtitle: In *Sociological Methods & Research*
 doi: 10.1177/00491241251339188
 featured: true
