@@ -4,7 +4,7 @@ abstract: "Major societal transformations fuel sociological inquiry. As industri
 slides: ""
 url_pdf: "ordinal-society-review.pdf"
 publication_types:
-  - "2"
+  - "4"
 authors:
   - admin
 author_notes: []
