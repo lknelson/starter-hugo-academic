@@ -18,7 +18,7 @@ social:
     icon_pack: ai
     link: files/2022_LNelsonCV.pdf
   - icon: bluesky
-    icon_pack: fa-brands
+    icon_pack: fab
     link: https://bsky.app/profile/lauraknelson.bsky.social
   - icon: graduation-cap
     icon_pack: fas
