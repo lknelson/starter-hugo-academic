@@ -9,14 +9,14 @@ authors:
   - admin
 author_notes: []
 publication: "*Acta Sociologica*"
-summary: “What does it mean for computers to intervene in the business of seeing and organizing society?” The answer to this question in now more important than ever.
+summary: What does it mean for computers to intervene in the business of seeing and organizing society? The answer to this question in now more important than ever.
 url_dataset: ""
 url_project: ""
 publication_short: In *Acta Sociologica*
 url_source: ""
 url_video: ""
 title: "Book Review: *The Ordinal Society* by Marion Fourcade and Kieran Healy"
-subtitle: In *Acta Sociological*
+subtitle: In *Acta Sociologica*
 doi: 10.1177/00016993251351777
 featured: true
 tags:
