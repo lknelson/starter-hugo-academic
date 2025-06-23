@@ -25,7 +25,7 @@ image:
   caption: ""
   focal_point: SMART
   preview_only: false
-  filename: featured.png
+  filename: featured.jpg
 date: 2025-06-23T01:00:00.000Z
 url_slides: ""
 publishDate: 2025-06-23T00:00:00.000Z
