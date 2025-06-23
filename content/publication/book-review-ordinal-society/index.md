@@ -2,7 +2,7 @@
 
 abstract: "Major societal transformations fuel sociological inquiry. As industrial capitalism displaced feudal economies, for instance, early theorists sought to understand the new forms of authority, labor, inequality, and social cohesion that emerged in its wake. We may now be living through another such transformation—one driven not by industrial production or bureaucratic governance, but by data, metrics, and algorithmic systems. *The Ordinal Society* builds on—and in key ways redirects—Shoshana Zuboff's (2019) claim that we are witnessing the rise of a new economic formation: surveillance capitalism, in which human experience is mined as “behavioral surplus” and turned into data to predict and shape behavior, and to generate profits. But where Zuboff focuses on extraction and surveillance, *The Ordinal Society* asks what comes next: how that data is used to classify, rank, and sort people in ways that structure access to opportunity and power."
 slides: ""
-url_pdf: "ordinal-society-review.pdf"
+url_pdf: ordinal-society-review.pdf
 publication_types:
   - "4"
 authors:
